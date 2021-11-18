@@ -5,6 +5,7 @@ date: November 02, 2021
 ---
 
 # Synopsis
+# *hola* para guardar en commit
 
 `pandoc` [*options*] [*input-file*]...
 
